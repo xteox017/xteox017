@@ -20,6 +20,11 @@ I leave you my contact details, to participate in your project! 🚀🚀🚀
 - 📫 How to reach me: https://www.linkedin.com/in/mateocruzl-fullstack/
 - 📧mateocruzlanchero@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xteox017&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xteox017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 How to make this gif ?
 

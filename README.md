@@ -20,7 +20,7 @@ I leave you my contact details, to participate in your project! 🚀🚀🚀
 - 📫 How to reach me: https://www.linkedin.com/in/mateocruzl-fullstack/
 - 📧mateocruzlanchero@gmail.com
 
-My projects
+## 📌 My projects
 [![Watch the video](https://img.youtube.com/vi/0FNPQDnKrVg/maxresdefault.jpg)](https://youtu.be/0FNPQDnKrVg)
 
 
